@@ -1,0 +1,32 @@
+Hospital Number:
+Patient Name:
+
+NHS Number:
+
+
+Date of Admission:
+
+
+Date of Discharge: 
+
+
+Discharge Notification
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pharetra velit in velit tempor mollis. Duis dignissim dui sapien, nec tincidunt lacus posuere ac. Praesent congue, diam id cursus accumsan, sapien lectus scelerisque enim, et euismod ex felis at enim. Proin interdum egestas nibh in congue. Duis et ullamcorper elit. Sed volutpat lacus tellus, ac tempor metus euismod lobortis.
+
+Drugs on discharge
+
+
+Warfarin Tablet TTA 
+
+drug1
+
+drug2
+
+drug3
+
+aspirin
+
+
+TTA Completed 
+Final TTA assembly 
