@@ -23,3 +23,6 @@ DrugNLP.py contains the OACAnnotator class which does all the work, the only met
 
 ## Funding
 Dan Bean is funded by Health Data Research UK
+
+## Contact
+Developed by Dan Bean at King's College London - daniel.bean@kcl.ac.uk
