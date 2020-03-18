@@ -6,6 +6,11 @@ Note many parameters in this code are specifically tuned to the text used in thi
 
 This repository does not contain any patient data, the report text used in the demo is a generic structure. 
 
+## See also
+https://github.com/dbeanm/SimpleDrugNLP for a more generic version
+
+https://github.com/CogStack/MedCAT and https://github.com/CogStack/MedCATtrainer for a much more advanced tool
+
 ## Overview
 The annotator tries to find a discharge medication list. If there isn't a list, or the list is found but empty, it falls back to checking the full body of the text. 
 
