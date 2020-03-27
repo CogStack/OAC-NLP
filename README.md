@@ -7,7 +7,7 @@ Note many parameters in this code are specifically tuned to the text used in thi
 This repository does not contain any patient data, the report text used in the demo is a generic structure. 
 
 ## See also
-https://github.com/dbeanm/SimpleDrugNLP for a more generic version
+https://github.com/dbeanm/DrugPipeline for a more generic version which we are using to detect ACE inhibitors and ARBs in clincial text. 
 
 https://github.com/CogStack/MedCAT and https://github.com/CogStack/MedCATtrainer for a much more advanced tool
 
