@@ -1,3 +1,7 @@
+# Archived
+
+This repo is no longer maintained. For more details please reach out directly to [@dbeanm](https://github.com/dbeanm).
+
 # OAC-NLP
 
 Detect prescription of oral anticoagulants (OAC) in clinical text using regular expressions. Developed and used in Bean et al. (2019 submitted) "Semantic Computational Analysis of Anticoagulation Use in Atrial Fibrillation from Real World Data".
